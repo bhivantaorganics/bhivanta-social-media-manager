@@ -1,0 +1,1 @@
+{"description":"Bhivanta Organics AI Social Media Marketing Manager — draft-only, approval-gated, zero paid deps","engines":{"node":">=24"},"main":"server.js","name":"bhivanta-social-media-manager","scripts":{"start":"node server.js","test":"node --test tests/engine.test.js"},"version":"1.0.0"}
